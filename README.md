@@ -1,2 +1,3 @@
-# Instagram
-Added homepage of instagram
+# Instagram Clone
+Added homepage of instagram which was made by using HTML and CSS 
+
